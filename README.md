@@ -13,12 +13,3 @@ Para instalar las dependencias del proyecto ejecutar el siguiente comando:
 Para ejecutar el proyecto ejecutar el siguiente comando:
     
     npm start
-
-
-### Uso
-
-Para usar el chat, abrir el archivo `index.html` en el navegador y escribir el nombre de usuario. Luego se puede escribir un mensaje y enviarlo.
-
-### Licencia
-
-Este proyecto está bajo la licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
